@@ -12,15 +12,9 @@ User also may browse event categories to find city events as well
 
 Event organizers can create their own events for users to see
 
+Users may create a profile with their own profile picture by creating a password and also entering their email and name which is stored in our database.
 
 
-Specs:
+MVP: 6 screens total: Home, Search, Favorites, and Profile. User will also be presented with Sign-in and Sign-up screens upon their initial visit to the Favorites screen.
 
-MVP: 
-
-6 screens total: Home, Search, Favorites, and Profile. User will also be presented with Sign-in and Sign-up screens upon their initial visit to the Favorites screen.
-
-Post-MVP:
-
-7 screens total: Home, Search, Favorites, Profile, Sign-in, Sign-up, as well as Event organizer screen, for users to create their own events cards
-
+Post-MVP: 7 screens total: Home, Search, Favorites, Profile, Sign-in, Sign-up, as well as Event organizer screen, for users to create their own events cards.                                          
